@@ -30,5 +30,6 @@
 		}
 	},
 	"require": {
-	}
+    "greenpeace/planet4-child-theme-israel": "dev-patch-1"
+}
 }
